@@ -27,8 +27,9 @@ Google Drive Link:
 
 ## 📱 Screenshots (Sample)
 
-- Splash Screen  
-- Home List View  
+- Splash Screen 
+- Home List View
+- 
 - Grid View  
 - Article Detail  
 - Search Screen  
